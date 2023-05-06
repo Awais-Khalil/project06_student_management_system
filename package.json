@@ -1,0 +1,16 @@
+{
+  "name": "@awais-khalil/project06_student_management_system",
+  "version": "1.0.1",
+  "description": "",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "awais_classmanagementsystem": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
